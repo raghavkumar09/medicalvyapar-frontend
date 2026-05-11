@@ -1,0 +1,8 @@
+{
+  "name": "MediVyapar",
+  "description": "AI-Powered Smart Pharmacy Operating System",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
